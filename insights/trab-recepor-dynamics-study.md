@@ -1,0 +1,14 @@
+## 🦋 Observation: Seronegative Autoimmune Thyroiditis with TRAb-Mediated Receptor Dynamics and Euthyroid Tissue Hypothyroidism
+
+Histopathological evaluation via fine-needle aspiration (FNA) biopsy confirmed classic morphological hallmarks of chronic autoimmune (Hashimoto's) thyroiditis, characterized by dense lymphocytic infiltration and Hürthle cell (oncocytic) metaplasia. Paradoxically, serological profiling revealed an absence of canonical anti-thyroid peroxidase (TPOAb) and anti-thyroglobulin (TgAb) autoantibodies. This is consistent with serum-negative chronic autoimmune thyroiditis (SN-CAT) alongside markedly elevated thyrotropin receptor antibodies (TRAb) and parathyroid hormone (PTH). 
+
+Although TRAb is classically associated with Graves' hyperthyroidism via stimulating immunoglobulins (TSAb), heterogeneous TRAb populations also encompass TSH-receptor blocking antibodies (TBAb) that competitively antagonize TSH signaling at the follicular cell membrane. Clinically, I remain biochemically euthyroid on standard serum assays yet exhibit persistent, tissue-level hypothyroid manifestations, including unexplained weight gain, cold intolerance, and profound fatigue. I also experience symptom exacerbation when consuming gluten, which further supports the hypothesis because gliadin, a protein in gluten, mimicks thyroid protein.
+
+### Dietary Antigen Exacerbation: Gliadin Cross-Reactivity and Gut–Thyroid Signaling
+
+Concurrently, proposed molecular mimicry between gliadin epitopes and thyroidal antigens suggests that dietary antigen exposure may act as an exogenous trigger sustaining low-grade autoimmune reactivity (even in the absence of baseline serum TPOAb or TgAb positivity). The temporal coupling between gluten intake and symptom flares aligns with a multi-element model in which barrier-driven immune signaling compounds receptor-level thyroid dysregulation.
+
+I hypothesize that this discordance arises from a multi-layered signaling bottleneck:
+
+1. **Competing Receptor Kinetics & Tissue-Level Signaling Deficit:** A dynamic equilibrium between stimulating and blocking TRAb isoforms, compounded by inflammatory cytokine-mediated shifts in peripheral deiodinase activity (downregulating intracellular T4-to-T3 conversion via Type 2 deiodinase), may starve peripheral tissues of active nuclear thyroid hormone receptor (TRα/TRβ) agonism while maintaining deceptively normal circulating serum TSH and Free T4 concentrations.
+2. **Parathyroid Cross-Talk:** Concurrent PTH elevation suggests potential secondary hyperparathyroidism (e.g., driven by autoimmune-associated vitamin D insufficiency or damage to parathyroids from a recent RFA procedure) or primary parathyroid dysregulation, which independently exacerbates systemic metabolic fatigue and neuromuscular sluggishness.
