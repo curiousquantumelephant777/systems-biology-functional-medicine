@@ -1,6 +1,6 @@
-# $\color{#d30a7c}{\text{🧬 Thyroglobulin, Regulatory T Cells, and Thyroid Nodule Remodeling: A Longitudinal N-of-1 Exploration}}$
+## $\color{#d30a7c}{\text{🧬 Thyroglobulin, Regulatory T Cells, and Nodule Remodeling: A Longitudinal N-of-1 Exploration}}$
 
-## Research Overview
+### Research Overview
 
 This repository documents a longitudinal, exploratory N-of-1 case study involving a benign multinodular thyroid goiter, elevated serum thyroglobulin (Tg), and changes in thyroid nodule morphology over time.
 
@@ -12,7 +12,7 @@ These observations motivated an exploratory research question: could thyroglobul
 
 This repository explores that possibility through a systems-biology framework. The proposed mechanisms remain hypotheses and have not been established in this individual case.
 
-## 🦋 Central Research Question: The Tg–Treg Hypothesis
+### 🦋 Central Research Question: The Tg–Treg Hypothesis
 
 Conventional models of autoimmune thyroid disease emphasize immune-mediated injury, including the roles of autoreactive lymphocytes, inflammatory signaling, and thyroid-directed antibodies.
 
@@ -35,7 +35,7 @@ Importantly, the existing literature does not establish that elevated Tg alone c
 
 The objective is to develop a testable framework connecting thyroid biochemistry, immune regulation, and tissue-level observations.
 
-## 🔬 Additional Research Interests
+### 🔬 Additional Research Interests
 
 This project also explores broader connections between systems biology and functional physiology:
 
@@ -46,7 +46,7 @@ This project also explores broader connections between systems biology and funct
 
 These are exploratory research interests rather than conclusions established by the thyroid case study.
 
-## 🧪 Interventions and Observations
+### 🧪 Interventions and Observations
 
 The following interventions were part of the individual's longitudinal experience. Their inclusion documents the case history and does not establish their efficacy or causal contribution to the observed changes.
 
